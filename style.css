@@ -16,9 +16,9 @@ header {
 section {
     color: white;
     display: flex;
-    background: url(/assets/img/bg.png) no-repeat center center fixed;
+    background: url(assets/img/bg.png) no-repeat center center fixed;
     background-size: cover;
-    padding: 20rem 0;
+    padding: 12rem 0;
     flex-direction: column;
     justify-content: center;
     align-items: center;
